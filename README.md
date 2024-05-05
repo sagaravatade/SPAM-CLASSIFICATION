@@ -1,2 +1,2 @@
 # SPAM-CLASSIFICATION
-SPAM CLASSIFICATION USING NAIVE BAYES
+Spam Classification using naive Bayes
